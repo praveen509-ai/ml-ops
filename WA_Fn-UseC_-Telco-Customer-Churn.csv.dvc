@@ -1,0 +1,5 @@
+outs:
+- md5: d149f02e10879ce7e0496d1a674bedcc
+  size: 978287
+  hash: md5
+  path: WA_Fn-UseC_-Telco-Customer-Churn.csv
